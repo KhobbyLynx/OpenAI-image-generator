@@ -13,6 +13,8 @@ lynxAI image generator uses [OpenAI's Dall-E models](https://beta.openai.com/doc
 
 ## Usage
 
+<!-- <img src="public/img/preview.png" width="500" -->
+
 create a .env file
 
 Generate an API KEY at [OpenAI](https://beta.openai.com/) and add it to the `.env` file.
